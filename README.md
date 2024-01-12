@@ -32,8 +32,8 @@ Before you can start using the Llama2 Medical Bot, make sure you have the follow
 1. Clone this repository to your local machine.
 
     ```bash
-    git clone https://github.com/your-username/langchain-medical-bot.git
-    cd langchain-medical-bot
+    git clone https://github.com/your-username/langchain-rag-bot.git
+    cd langchain-rag-bot
     ```
 
 2. Create a Python virtual environment (optional but recommended):
@@ -55,7 +55,7 @@ Before you can start using the Llama2 Medical Bot, make sure you have the follow
 
 ## Getting Started
 
-To get started with the Llama2 Medical Bot, you need to:
+To get started with the Llama2 RAG Bot, you need to:
 
 1. Set up your environment and install the required packages as described in the Installation section.
 
@@ -71,7 +71,7 @@ The Llama2 Medical Bot can be used for answering medical-related queries. To use
 
 1. Start the bot by running your application or using the provided Python script.
 
-2. Send a medical-related query to the bot.
+2. Send a information-related query to the bot.
 
 3. The bot will provide a response based on the information available in its database.
 
@@ -81,7 +81,7 @@ The Llama2 Medical Bot can be used for answering medical-related queries. To use
 
 ## Contributing
 
-Contributions to the Llama2 Medical Bot are welcome! If you'd like to contribute to the project, please follow these steps:
+Contributions to the Llama2 RAG Bot are welcome! If you'd like to contribute to the project, please follow these steps:
 
 1. Fork the repository to your own GitHub account.
 
@@ -101,5 +101,5 @@ This project is licensed under the MIT License.
 
 For more information on how to use, configure, and extend the Llama2 RAG Bot, please refer to the Langchain documentation or contact the project maintainers.
 
-Happy coding with Llama2 Medical Bot! 🚀
+Happy coding with Llama2 RAG Bot! 🚀
 # RAG-Chatbot-LLama-2
